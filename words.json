@@ -1,5 +1,35 @@
 [
     {
+        "word": "red",
+        "types": ["adjective"],
+        "tags": ["color", "primary-color"]
+    },
+    {
+        "word": "yellow",
+        "types": ["adjective"],
+        "tags": ["color", "primary-color"]
+    },
+    {
+        "word": "blue",
+        "types": ["adjective"],
+        "tags": ["color", "primary-color"]
+    },
+    {
+        "word": "green",
+        "types": ["adjective"],
+        "tags": ["color", "secondary-color"]
+    },
+    {
+        "word": "orange",
+        "types": ["adjective"],
+        "tags": ["color", "secondary-color"]
+    },
+    {
+        "word": "purple",
+        "types": ["adjective"],
+        "tags": ["color", "secondary-color"]
+    },
+    {
         "word": "gold",
         "types": ["adjective", "noun"],
         "tags": ["element", "color", "metal"]
@@ -8,5 +38,20 @@
         "word": "silver",
         "types": ["adjective", "noun"],
         "tags": ["element", "color", "metal"]
+    },
+    {
+        "word": "fox",
+        "types": ["noun"],
+        "tags": ["animal", "mammal"]
+    },
+    {
+        "word": "cat",
+        "types": ["noun"],
+        "tags": ["animal", "mammal"]
+    },
+    {
+        "word": "bunny",
+        "types": ["noun"],
+        "tags": ["animal", "mammal"]
     }
 ]

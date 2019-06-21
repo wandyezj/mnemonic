@@ -53,6 +53,6 @@ function run(wordFilePath: string, adjectiveTag: string, nounTag: string, runs: 
 
 const wordFilePath = "./words.json";
 const adjectiveTag = "color";
-const nounTag = "metal";
+const nounTag = "animal";
 const runs = 10;
 run(wordFilePath, adjectiveTag, nounTag, runs);
