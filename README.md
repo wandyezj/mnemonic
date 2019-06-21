@@ -1,0 +1,2 @@
+# mnemonic
+generate names
