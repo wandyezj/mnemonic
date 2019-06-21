@@ -1,0 +1,12 @@
+[
+    {
+        "word": "gold",
+        "types": ["adjective", "noun"],
+        "tags": ["element", "color", "metal"]
+    },
+    {
+        "word": "silver",
+        "types": ["adjective", "noun"],
+        "tags": ["element", "color", "metal"]
+    }
+]
